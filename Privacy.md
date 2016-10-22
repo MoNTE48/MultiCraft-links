@@ -12,7 +12,9 @@ Our General Data Protection and Data Security Commitments:
 Security. MultiCraft attributes a great importance to the security of all personal information associated with its Users. We apply adequate security measures to protect against misuse, loss and alteration of personal information under our control. Though we cannot ensure or guarantee that misuse, loss or alteration of information will never occur, we use all reasonable efforts to prevent it.
 COPPA: MultiCraft does not knowingly collect or use personal information from children under the age of thirteen. MultiCraft obtains from publishers some anonymous usage data, such as tracking ID numbers, device information or IP addresses. MultiCraft does not know who these Users are or how old they are. MultiCraft makes no efforts to find out the identity of Users or retarget them. In addition, MultiCraft does not disclose personal information if MultiCraft has actual knowledge that the information has been collected from children under the age of thirteen in the United States in contradiction with the Children’s Online Privacy Protection Act of 1998 and the regulation thereunder. For all COPPA-related questions, please contact us.
 
-Contact:
-You can always contact us at the email listed on the app's page on Google Play.
+Since MultiCraft cooperates with Appodeal Inc., an additional part of the Privacy Policy is available at the link: https://www.appodeal.com/privacy-policy
 
-Updated: 2016-Sep-28
+Contact:
+You can always contact us at the email listed on the app's page on Google Play or Apple App Store.
+
+Updated: 2018-Oct-15
