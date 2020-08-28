@@ -1,11 +1,11 @@
 {
-	"bundle_version":93,
+	"bundle_version":97,
 	"appstore_url":"itms-apps://itunes.apple.com/app/id1174039276",
-	"content_en":"<big><big><b>Version 1.10</b><br/>What's new?</big><ul><li>Fixed game crashes</li><li>Improved touch controls and added interaction with Cart, Boat and Mobs</li></ul><center><b>Please update the game!</b></center></big>",
-	"content_ru":"<big><big><b>Версия 1.10</b><br/>Что нового?</big><ul><li>Исправлены проблемы с вылетами игры</li><li>Улучшено управление и добавлено взаимодействие с Предметами и Мобами</li></ul><center><b>Пожалуйста, обновите игру!</b></center></big>",
+	"content_en":"<big><big><b>Version 1.12</b><br/>What's new?</big><ul><li>Fixed game crashes</li><li>Improved touch controls and added interaction with Cart, Boat and Mobs</li></ul><center><b>Please update the game!</b></center></big>",
+	"content_ru":"<big><big><b>Версия 1.12</b><br/>Что нового?</big><ul><li>Исправлены проблемы с вылетами игры</li><li>Улучшено управление и добавлено взаимодействие с Предметами и Мобами</li></ul><center><b>Пожалуйста, обновите игру!</b></center></big>",
 	"rate_version":87,
 	"ads_enabled":true,
 	"ads_video":true,
-	"ads_start":60,
+	"ads_start":30,
 	"ads_interval":300
 }
