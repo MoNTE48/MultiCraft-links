@@ -1,5 +1,5 @@
 {
-	"version_code":92,
+	"version_code":93,
 	"package":"com.multicraft.game",
 	"content_en":"<big><big><b>Warning!</b></big><ul><li>Your version of the game is outdated and no longer supported!</li><li>It will stop working soon.</li><li>Access to the multiplayer is limited and can be disabled at any time.</li></ul><center><b>Please install the updated version!</b></center></big>",
 	"content_ru":"<big><big><b>Warning!</b></big><ul><li>Ваша версия игры устарела и больше не поддерживается!</li><li>Она перестанет работать в ближайшее время.</li><li>Доступ к мультиплееру ограничен и может быть отключён в любое время.</li></ul><center><b>Пожалуйста, установите обновлённую версию!</b></center></big>",
